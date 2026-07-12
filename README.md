@@ -3,8 +3,7 @@
 <h3 align="center">🚀 B.Tech Computer Science Engineering Student | Future AI/ML Engineer | Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+HTML+%7C+CSS+%7C+C+%7C+Python;Future+AI+%26+ML+Engineer;Building+Awesome+Projects+🚀" />
-</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-suthar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
