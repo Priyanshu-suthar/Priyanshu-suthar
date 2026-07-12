@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-<img src="![Uploading WhatsApp Image 2026-07-12 at 3.51.23 PM.jpeg…]()" alt="my image">
- "
-"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-suthar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
