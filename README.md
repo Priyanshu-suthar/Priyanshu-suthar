@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-suthar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="<img width="900" height="1600" alt="WhatsApp Image 2026-07-12 at 3 51 23 PM" src="https://github.com/user-attachments/assets/fda8085c-3020-4331-99f7-47cdf4e1566d" />
+"/>
 </p>
 
 ---
@@ -128,8 +129,8 @@ Professional Resume Website
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.instagram.com/svfindustries/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="https://www.instagram.com/_priyanshu04/">
+<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram](https://www.instagram.com/_priyanshu04?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)"/>
 </a>
 
 </p>
