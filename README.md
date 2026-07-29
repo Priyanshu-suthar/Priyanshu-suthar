@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Priyanshu%20Suthar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Future%20AI%2FML%20Engineer&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Engineering+Student;Aspiring+AI+%26+ML+Engineer;Web+Developer+%7C+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-suthar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+</br>
 </div>
 
 <br/>
