@@ -1,148 +1,208 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Suthar</h1>
+<div align="center">
 
-<h3 align="center">🚀 B.Tech Computer Science Engineering Student | Future AI/ML Engineer | Web Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Priyanshu%20Suthar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Future%20AI%2FML%20Engineer&descAlignY=55&descSize=18"/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Engineering+Student;Aspiring+AI+%26+ML+Engineer;Web+Developer+%7C+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-suthar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```yaml
+name: Priyanshu Suthar
+role: B.Tech Computer Science Engineering Student
+institute: Techno NJR Institute of Technology, Udaipur
+focus: AI / Machine Learning · Web Development
+currently_learning: [HTML, CSS, C, Python, Git & GitHub]
+goal: Become an AI & Machine Learning Engineer and build impactful software
+```
+
+<br/>
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,c,python,vscode,git,github&theme=dark&perline=7"/>
 </p>
 
----
+<div align="center">
 
-# 👨‍💻 About Me
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🎓 **B.Tech Computer Science Engineering**
+</div>
 
-🏫 **Techno NJR Institute of Technology, Udaipur**
+<br/>
 
-🌱 Currently Learning
+## 🚀 Featured Projects
 
-- HTML
-- CSS
-- C Programming
-- Python
-- Git & GitHub
+<table align="center">
+<tr>
+<td width="50%">
 
-🎯 Goal
+### 🎬 Movie Ticket Booking Website
+Full booking flow: seat selection, form validation & a payment page mockup.
 
-Become an AI & Machine Learning Engineer and build impactful software.
+`HTML` `CSS` `Booking Form` `Seat Selection`
 
----
-
-# 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,c,python,vscode,git,github"/>
-
-</p>
-
----
-
-# 🚀 Projects
-
-### 🎬 Online Movie Ticket Booking Website
-
-✔ HTML
-
-✔ CSS
-
-✔ Booking Form
-
-✔ Seat Selection
-
-✔ Payment Page
-
----
+</td>
+<td width="50%">
 
 ### 🏭 SVF Industries Website
+Professional company website for a fertilizer plant manufacturing business.
 
-Professional Company Website
+`HTML` `CSS` `Business Site`
 
-Manufacturing Fertilizer Plants & Equipment
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 👨‍💼 Personal Portfolio
+Fully responsive portfolio built from scratch with HTML & CSS.
 
-### 👨‍💼 Personal Portfolio Website
+`HTML` `CSS` `Responsive Design`
 
-Responsive Portfolio using HTML & CSS
-
----
+</td>
+<td width="50%">
 
 ### 📄 HTML Resume
+A clean, professional resume rendered entirely as a webpage.
 
-Professional Resume Website
+`HTML` `CSS` `Resume`
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Stats
+<br/>
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-suthar&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-suthar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Priyanshu-suthar&theme=tokyonight"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-suthar&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-suthar&layout=compact&theme=tokyonight&border_radius=12"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-suthar&theme=tokyo-night"/>
-
+<img src="https://streak-stats.demolab.com?user=Priyanshu-suthar&theme=tokyonight&border_radius=12"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-suthar&theme=tokyonight&margin-w=15"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-suthar&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
----
+<br/>
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Priyanshu-suthar/Priyanshu-suthar/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
+> ℹ️ This animated snake needs a one-time GitHub Actions setup — see the **Setup Notes** section below.
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-suthar&theme=tokyonight&margin-w=12&margin-h=12&column=4&no-frame=true"/>
+</p>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://github.com/Priyanshu-suthar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/_priyanshu04/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
----
+<br/>
 
-# 💡 Quote
+<div align="center">
 
-> **"Keep Learning, Keep Building, Keep Growing." 🚀**
-
----
-
-<p align="center">
+### 💡 "Keep Learning, Keep Building, Keep Growing." 🚀
 
 ⭐ If you like my projects, don't forget to star them!
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer"/>
+
+</div>
+
+<!--
+=========================
+SETUP NOTES (delete this comment block once done)
+=========================
+
+1) TYPING SVG / CAPSULE HEADER / STREAK / STATS / TROPHIES
+   These all work immediately — no setup needed, just replace
+   "Priyanshu-suthar" if your GitHub username ever changes.
+
+2) CONTRIBUTION SNAKE ANIMATION (the animated eating-your-contributions graph)
+   This one needs a GitHub Action in THIS repo (the one named exactly
+   like your username, e.g. Priyanshu-suthar/Priyanshu-suthar):
+
+   a. Go to your profile repo → Actions tab → New workflow → "set up a workflow yourself"
+   b. Name the file: snake.yml
+   c. Paste this content:
+
+      name: generate animated snake
+      on:
+        schedule:
+          - cron: "0 */6 * * *"
+        push:
+          branches: [ main ]
+        workflow_dispatch: {}
+      jobs:
+        generate:
+          runs-on: ubuntu-latest
+          permissions:
+            contents: write
+          steps:
+            - uses: Platane/snk@v3
+              with:
+                github_user_name: ${{ github.repository_owner }}
+                outputs: |
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                  dist/github-contribution-grid-snake.svg
+            - uses: crazy-max/ghaction-github-pages@v4
+              with:
+                target_branch: output
+                build_dir: dist
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   d. Commit → run the workflow once manually (Actions tab → Run workflow)
+   e. It will create an "output" branch with the SVG — the snake in this
+      README will then render automatically.
+
+3) EMAIL / LINKEDIN
+   Swap "youremail@example.com" and "your-linkedin" for your real details,
+   or delete those two badges if you'd rather not share them.
+
+4) THEME CONSISTENCY
+   Every widget above uses the "tokyonight" theme to match. If you'd like
+   a different palette (radical, dracula, gruvbox, github_dark), tell me
+   and I'll swap all of them together so they stay consistent.
 -->
